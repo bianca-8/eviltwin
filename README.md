@@ -8,3 +8,5 @@ Outsmart your evil twin to win! Your twin has a mustache and will mirror your at
   <li>Press F to shield yourself from your twin's attacks (P.S. try shielding yourself from your twin's attacks to unlock a secret character face)</li>
   <li>Hold space to move in slow-mo</li>
 </ul>
+
+[![Youtube Video: https://www.youtube.com/watch?v=mOv5McYPgPM](https://img.youtube.com/vi/bvmusfxRiJU/0.jpg)](https://www.youtube.com/watch?v=bvmusfxRiJU)
